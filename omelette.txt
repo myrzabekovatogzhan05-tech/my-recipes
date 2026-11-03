@@ -2,3 +2,6 @@ ingridients:
 eggs
 salt 
 milk
+
+steps:
+add eggs, salt and milk and whisk them together. fry it on the heated pan.
